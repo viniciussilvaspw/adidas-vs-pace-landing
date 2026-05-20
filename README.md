@@ -18,7 +18,7 @@ O projeto foi construído utilizando uma arquitetura Full Stack moderna com:
 
 Visualização rápida do projeto finalizado:
 
-![Interface da Landing Page](../site-vue.js/projeto-fullstack/frontend/src/assets/image/imagem-original-do-site.jpeg)
+![Interface da Landing Page](../site-adidas-vue.js/projeto-fullstack/frontend/src/assets/image/imagem-original-do-site.jpeg)
 
 ---
 
